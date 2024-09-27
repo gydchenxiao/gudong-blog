@@ -3,9 +3,9 @@
     <div class="giscus"></div>
     <script src="https://giscus.app/client.js"
         data-repo="gydchenxiao/gudongBlog"
-        data-repo-id="R_kgDOM2wrCA"
+        data-repo-id="R_kgDOM30RAA"
         data-category="General"
-        data-category-id="DIC_kwDOM2wrCM4CizL6"
+        data-category-id="DIC_kwDOM30RAM4Ci1Hr"
         data-mapping="title"
         data-strict="0"
         data-reactions-enabled="1"
