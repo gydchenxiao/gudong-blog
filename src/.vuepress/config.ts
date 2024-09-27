@@ -63,9 +63,9 @@ export default defineUserConfig({
           giscusScript.async = true;
           giscusScript.crossOrigin = 'anonymous';
           giscusScript.setAttribute('data-repo', 'gydchenxiao/gudongBlog');
-          giscusScript.setAttribute('data-repo-id', 'R_kgDOM2wrCA');
+          giscusScript.setAttribute('data-repo-id', 'R_kgDOM30RAA');
           giscusScript.setAttribute('data-category', 'General');
-          giscusScript.setAttribute('data-category-id', 'DIC_kwDOM2wrCM4CizL6');
+          giscusScript.setAttribute('data-category-id', 'DIC_kwDOM30RAM4Ci1Hr');
           giscusScript.setAttribute('data-mapping', 'title');
           giscusScript.setAttribute('data-strict', '0');
           giscusScript.setAttribute('data-reactions-enabled', '1');
@@ -90,4 +90,3 @@ export default defineUserConfig({
     ],
   ],
 });
-
